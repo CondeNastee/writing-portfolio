@@ -12,6 +12,7 @@ IDEA New Rochelle (VR/AR, Mo-Cap, Urban Planning):
 
 *   [IDEA's Recent Residents Will Blow Your Mind](https://medium.com/idea-new-rochelle/ideas-recent-residents-will-blow-your-mind-f27a519eda8b)
 *   [Champion City Part 14: Watch and Learn](https://medium.com/idea-new-rochelle/champion-city-part-14-watch-and-learn-ce098437f028)
+* [AR and VR: Cities Are Ready!, by Amelia Winger-Bearskin (ghostwritten by Eamon O'Connor)](https://medium.com/idea-new-rochelle/ar-and-vr-cities-are-ready-2e539767cee5)
 
 DBRS Innovation Labs (FinTech, Machine Learning, AI):
 
