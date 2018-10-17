@@ -5,7 +5,7 @@
 *   [Games & The System](https://inthemesh.com/archive/games-and-the-system/)
 *   [Trembling Giant: The Pando Aspen Grove](https://inthemesh.com/archive/pando-aspen-grove/)
 *   [Althea Deploys in Rural Oregon](https://inthemesh.com/archive/althea-deploys-rural-oregon/)
-*   [On The Connectivity of Mesh Networks, by Ram Ramanatha (edited by Eamon O'Connor)](https://inthemesh.com/archive/whitepaper-connectivity-of-mesh-networks/)
+*   [On The Connectivity of Mesh Networks, by Ram Ramanathan (edited by Eamon O'Connor)](https://inthemesh.com/archive/whitepaper-connectivity-of-mesh-networks/)
 *   [Introducing TxTenna, by Richard Myers (edited by Eamon O'Connor)](https://inthemesh.com/archive/txtenna-decentralizing-last-mile-bitcoin/)
 
 IDEA New Rochelle (VR/AR, Mo-Cap, Urban Planning):
