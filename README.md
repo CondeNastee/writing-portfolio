@@ -1,5 +1,5 @@
 # writing-portfolio
-<div class="body-text">_Selected Writings_ In The Mesh (Decentralization, Mesh-networking, Blockchain & Crypto):
+<div class="body-text">In The Mesh (Decentralization, Mesh-networking, Blockchain & Crypto):
 
 *   [Meme Logic](https://inthemesh.com/archive/meme-like-mushroom/)
 *   [Games & The System](https://inthemesh.com/archive/games-and-the-system/)
